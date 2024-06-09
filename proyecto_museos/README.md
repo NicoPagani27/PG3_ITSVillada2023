@@ -1,0 +1,2 @@
+Trabajo Practico de API con Django:
+Comence trabajando con la API del gobierno de argentina y luego elegi la seccion de cultura para asi poder conectarla con mi proyecto de Django y poder traer cierta informacion de la API que busque, y colocarla en un html y convertirlo a una tabla con su respectivo nombre del museo, direccion y telefono.
